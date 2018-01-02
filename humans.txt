@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Conor Nugent
 
 # TECHNOLOGY COLOPHON
 
